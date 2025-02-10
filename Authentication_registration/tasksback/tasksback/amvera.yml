@@ -1,0 +1,13 @@
+meta:
+  environment: python
+  toolchain:
+    name: pip
+    version: 3.11.3
+build:
+  requirementsPath: requirements.txt
+run:
+  scriptName: manage.py
+  persistenceMount: /data
+  command: gunicorn tasksback.wsgi:application  --bind 0.0.0.0:80
+  containerPort: "80"
+

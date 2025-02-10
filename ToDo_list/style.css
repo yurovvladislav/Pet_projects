@@ -1,0 +1,205 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+ 
+    display: flex;
+    flex-direction: column;
+	
+	text-align: center;
+
+}
+
+header
+{
+    
+	font-size: 3rem;
+}
+
+.data
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    text-align: center;
+}
+
+.yach{
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    justify-content:left;
+    padding-left: 25%;
+}
+
+.btns
+{    
+    text-align:center;
+
+}
+.btn, .btn2, .btn3{
+    height:40px;
+    width:100px;
+    color: white;
+    font-size: 12pt;
+    font-weight: 800;
+      
+      
+      margin: 20px auto 0 auto;
+      border-radius: 5px;
+      box-shadow: 0 0 40px 40px #2416a4 inset, 0 0 0 0 #008000;
+      /* background: url(4.jpeg) no-repeat top right; */    
+  }
+.btn2{
+    box-shadow: 0 0 40px 40px #a41616 inset, 0 0 0 0 #008000;
+}
+
+.btn3{
+    height:50px;
+    width:50px;
+    position: absolute;
+    right: 50px;
+    top: 30px;
+}
+.down
+{
+    margin-top:5px;
+}
+
+input{
+    width: 130px;
+    border-radius: 5px;
+}
+.list
+{
+    
+    background-color: white;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.c{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    line-height: 50px;
+    padding-top: 20px;
+    width: 50%;
+    padding-left: 15%;
+    text-align:left;
+    font-size: 25px;
+   
+}
+
+.custom
+{
+    width: 17px;
+    height:17px;
+}
+
+
+
+.ph, .ph2
+{
+    width: 20px;
+    height:20px;
+    visibility: hidden;
+}
+
+
+
+.c:hover .ph{
+    visibility:visible;
+}
+
+.c:hover .ph2{
+    visibility:visible;
+}
+
+
+.txt
+{
+    width:85%;
+}
+
+.modal, .modal2{
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: auto;
+  background: rgba(0,0,0,0.5);
+  display: none;
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+
+  .chng
+  {
+    width: 20px;
+    height:20px;
+    visibility: hidden;
+    background: url(1.png) no-repeat top right;  
+  }
+
+  .del
+  {
+    width: 20px;
+    height:20px;
+    visibility: hidden;
+    background: url(2.png) no-repeat top right;  
+  }
+
+  .c:hover .chng{
+    visibility:visible;
+}
+
+.c:hover .del{
+    visibility:visible;
+}
+
+.notupdated
+{
+    height:20px;
+    width:20px;
+    font-size: 12pt;
+    font-weight: 800;
+      
+      
+      margin: 20px auto 0 auto;
+      border-radius: 5px;
+      background-image: url(5.png);
+}
+
+.updated
+{
+    height:20px;
+    width:20px;
+    font-size: 12pt;
+    font-weight: 800;
+      
+      
+      margin: 20px auto 0 auto;
+      border-radius: 5px;
+      background-image: url(4.jpeg);
+}
+
+.p{
+    position: fixed;
+}
+
+
+

@@ -1,0 +1,51 @@
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.exe
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.deps.json
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.runtimeconfig.json
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.dll
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.pdb
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.Form1.resources
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.AssemblyInfo.cs
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.dll
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\refint\Планировщик.dll
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.pdb
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.genruntimeconfig.cache
+C:\Users\Vladislav\Desktop\Планировщик\Планировщик\obj\Debug\net6.0-windows\ref\Планировщик.dll
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.exe
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.deps.json
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.runtimeconfig.json
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.dll
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.pdb
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.Form1.resources
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.AssemblyInfo.cs
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.dll
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\refint\Планировщик.dll
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.pdb
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.genruntimeconfig.cache
+C:\Users\Vladislav\Desktop\Windows Forms\Планировщик\Планировщик\obj\Debug\net6.0-windows\ref\Планировщик.dll
+C:\Папка\Курсовая\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.exe
+C:\Папка\Курсовая\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.deps.json
+C:\Папка\Курсовая\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.runtimeconfig.json
+C:\Папка\Курсовая\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.dll
+C:\Папка\Курсовая\Планировщик\Планировщик\bin\Debug\net6.0-windows\Планировщик.pdb
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.AssemblyReference.cache
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.Form1.resources
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.GenerateResource.cache
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.AssemblyInfoInputs.cache
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.AssemblyInfo.cs
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.csproj.CoreCompileInputs.cache
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.dll
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\refint\Планировщик.dll
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.pdb
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\Планировщик.genruntimeconfig.cache
+C:\Папка\Курсовая\Планировщик\Планировщик\obj\Debug\net6.0-windows\ref\Планировщик.dll
